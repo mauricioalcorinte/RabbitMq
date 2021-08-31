@@ -1,0 +1,16 @@
+C:\Users\Administrador\source\repos\RabbitMQTest\Send\bin\Debug\netcoreapp3.1\Send.exe
+C:\Users\Administrador\source\repos\RabbitMQTest\Send\bin\Debug\netcoreapp3.1\Send.deps.json
+C:\Users\Administrador\source\repos\RabbitMQTest\Send\bin\Debug\netcoreapp3.1\Send.runtimeconfig.json
+C:\Users\Administrador\source\repos\RabbitMQTest\Send\bin\Debug\netcoreapp3.1\Send.runtimeconfig.dev.json
+C:\Users\Administrador\source\repos\RabbitMQTest\Send\bin\Debug\netcoreapp3.1\Send.dll
+C:\Users\Administrador\source\repos\RabbitMQTest\Send\bin\Debug\netcoreapp3.1\Send.pdb
+C:\Users\Administrador\source\repos\RabbitMQTest\Send\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Administrador\source\repos\RabbitMQTest\Send\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\Administrador\source\repos\RabbitMQTest\Send\obj\Debug\netcoreapp3.1\Send.csproj.AssemblyReference.cache
+C:\Users\Administrador\source\repos\RabbitMQTest\Send\obj\Debug\netcoreapp3.1\Send.AssemblyInfoInputs.cache
+C:\Users\Administrador\source\repos\RabbitMQTest\Send\obj\Debug\netcoreapp3.1\Send.AssemblyInfo.cs
+C:\Users\Administrador\source\repos\RabbitMQTest\Send\obj\Debug\netcoreapp3.1\Send.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\RabbitMQTest\Send\obj\Debug\netcoreapp3.1\Send.csproj.CopyComplete
+C:\Users\Administrador\source\repos\RabbitMQTest\Send\obj\Debug\netcoreapp3.1\Send.dll
+C:\Users\Administrador\source\repos\RabbitMQTest\Send\obj\Debug\netcoreapp3.1\Send.pdb
+C:\Users\Administrador\source\repos\RabbitMQTest\Send\obj\Debug\netcoreapp3.1\Send.genruntimeconfig.cache
